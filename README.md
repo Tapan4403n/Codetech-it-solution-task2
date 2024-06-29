@@ -12,6 +12,6 @@ Mentor: MOHAMMED MUZAMMIL AHMED
 
 Overview of the Project
 
-Project - Led Blinking With Arduino
+Project - smart Home IOT system
 
 I HAVE SUBMITTED MY 2ND PROJECT ON LINKEDIN PAGE - 
